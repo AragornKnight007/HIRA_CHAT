@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869568234912",
+    "project_id": "hira-9cc39",
+    "storage_bucket": "hira-9cc39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869568234912:android:a2a0f6ceefeb2dc9d010c5",
+        "android_client_info": {
+          "package_name": "com.example.hira_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869568234912-q1m7re7atsgb5k7blj4o0rcntp2q5b78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLTaKRXcad9MyEwk4q62Y3bpZ0Hf1XuWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869568234912-q1m7re7atsgb5k7blj4o0rcntp2q5b78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
