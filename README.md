@@ -56,6 +56,6 @@ We welcome contributions! Feel free to open issues, submit pull requests, or sug
 ```
 ## License
 
-This project is licensed under the [Your License] License - see the LICENSE.md file for details.
+This project is licensed under the [MIT License] - see the LICENSE file for details.
 
 
