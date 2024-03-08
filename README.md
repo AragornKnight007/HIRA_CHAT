@@ -1,8 +1,6 @@
 # Hira_Chat - Android Chatting Messenger
 
-Hira_Chat is a feature-rich Android messaging application designed to provide seamless communication in a user-friendly environment. With a focus on simplicity and functionality, this messenger app aims to enhance your messaging experience.
-
-
+Hira_Chat is a feature-rich Android messaging application designed to provide seamless communication in a user-friendly environment. With a focus on simplicity and functionality, this messenger app aims to enhance your messaging experience
 
 
 # Documentation
@@ -56,6 +54,6 @@ We welcome contributions! Feel free to open issues, submit pull requests, or sug
 ```
 ## License
 
-This project is licensed under the [MIT License] (LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 
