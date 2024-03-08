@@ -3,7 +3,7 @@
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=true  
-google-services.json linguist-detectable=ture
-google-services.gradle linguist-detectable=ture
-.gradle linguist-detectable=ture
-.idea/ linguist-detectable=ture
+*.google-services.json linguist-detectable=ture
+*.google-services.gradle linguist-detectable=ture
+*.gradle linguist-detectable=ture
+*.idea/ linguist-detectable=ture
