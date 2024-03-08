@@ -34,6 +34,65 @@ Securely authenticate users and enable account creation for a personalized exper
 Fine-tune app settings to suit your preferences and enhance your overall user experience.
 
 
+# ScreenShots
+
+## Splash Activity
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/bc0ca43d-933e-4af8-a7c5-a12855d7d52f)
+
+ 
+
+
+## PhoneNumberActivity
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/d13f077c-f74c-48a1-a9a3-313a5634d7c6)
+
+ 
+
+## OTPActivity
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/6bac3c4b-1b91-49e8-b3cb-f6f4d2e53580)
+
+ 
+
+
+
+## SetupProfileActivity
+ ![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/caf637af-1389-4e0f-8da4-482e3dad42ec)
+
+
+
+
+## MainActivity
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/0c4fba24-19af-4f48-ba4e-d99a899a8742)
+
+ 
+
+## GroupChatActivity
+ ![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/4e6e19da-03dc-4a9f-a053-573e9bf635cf)
+
+
+## Notification Popup Activity
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/a7187c85-b85a-4f0d-b0e6-0c80142eae8b)
+
+ 
+## Firebase Sing in Method
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/a8795e80-39f1-4d31-a1f9-7e4dc9a06c9b)
+
+ 
+
+
+## Firebase Users Stored
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/01e7a864-050f-4bc7-9195-3cab43f5b5a3)
+
+ 
+## Application Data Base
+![image](https://github.com/AragornKnight007/Hira_Chat/assets/95436639/b2f03c04-b536-42d0-875e-43e3faa0a300)
+
+ 
+
+
+
+
+
+
 
 ## Installation
 
