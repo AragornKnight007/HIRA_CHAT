@@ -1,9 +1,2 @@
-*.csharp linguist-detectable=true  
-*.java linguist-detectable=true  
-*.js linguist-detectable=true  
-*.html linguist-detectable=true  
-*.xml linguist-detectable=true  
-google-services.json linguist-detectable=true
-google-services.gradle linguist-detectable=true
-.gradle linguist-detectable=true
-.idea/ linguist-detectable=true
+# Auto detect text files and perform LF normalization
+* text=auto
